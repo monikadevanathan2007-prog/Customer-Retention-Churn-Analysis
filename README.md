@@ -173,7 +173,7 @@ Customer-Retention-Churn-Analysis/
 
 ## Author
 
-**[Your Name]**
+**D.Monika**
 
 Data Science & Analytics Intern
 
